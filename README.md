@@ -12,3 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100px" width="100px"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100px" width="100px" />
   </div>
+  
+   <div align="center">
+  <p> <a href="https://github.com/luizfii"></p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizfii&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfii&layout=compact&langs_count=7&theme=light"/>
+   </div>
+  <div>
