@@ -1,6 +1,6 @@
 ### Olá! Sou Luiz Filipe
 
-- 🔭 Hoje trabalho em uma recepção de hotel
+- 🔭 Estou em busca de uma vaga na area do desenvolvimento e da analise de sistemas 
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contate - me no e-mail: fii.lfsp@gmail.com
 - 😄 Pronomes: ele/dele
